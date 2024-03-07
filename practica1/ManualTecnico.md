@@ -30,5 +30,5 @@
 ## Captura Ping 3
 ![captura4.png](capturas/ping3.png)
 
-## Captura Ping 3
+## Captura de paquetes
 ![captura4.png](capturas/arp.png)
