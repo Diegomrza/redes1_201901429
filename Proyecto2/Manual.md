@@ -154,7 +154,7 @@ Diego Abraham Robles Meza - 201901429
 
     Y para la asignacion de VLANs se utilizó el último digito del carnet del solicitante, en este caso 7.
 
-![VLSM Escuintla](images/Escuintla.png)
+![VLSM Escuintla](images/Escuintla2.png)
 
 - Configuracion de switches
     Switch0
@@ -185,7 +185,7 @@ Diego Abraham Robles Meza - 201901429
 
     Y para la asignacion de VLANs se utilizó el último digito del carnet del solicitante, en este caso 7.
 
-![VLSM Peten](images/Peten.png)
+![VLSM Peten](images/Peten2.png)
 
 - Configuracion de ESW2
 
